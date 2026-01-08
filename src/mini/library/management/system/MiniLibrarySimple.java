@@ -6,8 +6,6 @@ import java.io.*;       // File handling
 
 /**
  * Mini Library System - SIMPLE VERSION
- * الهدف من النسخة دي:
- * - مناسبة للطلاب الضعاف
  * - استخدام while + switch case
  * - GUI بسيط جدًا باستخدام JOptionPane
  * - Array عادي (ممنوع ArrayList)
@@ -175,3 +173,4 @@ public class MiniLibrarySimple {
         }
     }
 }
+
